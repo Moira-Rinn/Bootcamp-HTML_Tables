@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  background-color: #000;
+  color: #fafafa;
+  padding: 100px 50px;
+}
+
+h1 {
+  padding: 10px;
+}
+
+.container {
+  width: 85%;
+  background: url('../imgs/smcr-background.png') no-repeat center;
+  border: 3px solid #fafafa;
+  padding: 15px 15px 0 15px;
+}
+
+table {
+  opacity: 0.9;
+  border: 10px solid #fafafa;
+}
