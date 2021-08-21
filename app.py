@@ -7,7 +7,7 @@ Students = Students()
 
 
 @app.route('/')
-def board():
+def table():
     return render_template('tables.html', students=Students)
 
 
